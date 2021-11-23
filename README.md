@@ -7,3 +7,5 @@
 
 ## RESUMEN
 *El objetivo de este estudio de caso es informar sobre las experiencias y evaluaciones tipo formativas y sumativas haciendo exámenes diseñados para ser aplicados con Kahoot! en un curso de Cálculo en educación superior en una universidad pública en México. Con ayuda de la Teoría de la Respuesta al Ítem, se propone una mejora en los diseños pues se obtuvieron los índices de dificultad de los ítems y asimismo se validaron los exámenes comprobando su consistencia interna. Los resultados del estudio sugirieron que los participantes se mostraron muy positivos sobre el uso de la plataforma de exámenes apoyando la evaluación formativa y sumativa de una forma lúdica en cuanto a los aspectos actitudinales, de habilidades y conocimientos en Cálculo. Se concluye que Kahoot! es una herramienta poderosa complementaria al proporcionar una plataforma de evaluación formativa y sumativa eficaz que produce resultados favorables.*
+
+## **En la sección "Pull requests" se encuentran los pdf relacionados a los ítems con sus respectivas respuestas y de igual manera ejemplos practicos del empleo del criterio planteado para la evaluación de puntajes en Kahoot!**
